@@ -1,9 +1,4 @@
-## Intro ao Laravel 5.*
-
-### Arquitetura
-
-- Laravel: MVC (Model-View-Controller)
-- Django: MTV (Model-Template-View)
+# Intro ao Laravel 5.*
 
 ### Instalação
 
@@ -14,9 +9,24 @@
 
 - [Manual](https://laravel.com/docs/master/installation) (Recomendado para Linux / Mac)
 
-### Workflow Laravel
+### Exemplo de Projeto: [Laratwitter](http://github.com/ivmelo/laratwitter/) 🐦
 
-* Todo comando executado com prefixo `php artisan [comando]`
+### Links úteis (Tutoriais, documentação)
+
+- [Documentação oficial](https://laravel.com/docs/)
+- [Documentação PT-BR](https://laravel.artesaos.org/docs/)
+- [Laracasts (Vídeo-aulas)](https://laracasts.com/)
+- [Laravel News (últimas novidades do framework e newsletter)](https://laravel-news.com/)
+- [Canal de comunicação da comunidade Brasileira (para tirar dúvidas de forma instantânea ⚡️)](https://slack.laravel.com.br )
+
+
+## Workflow Laravel
+
+### Arquitetura
+
+- Laravel: **MVC** (Model-View-Controller)
+
+**Observação Importante:** Todo comando executado com prefixo `php artisan [comando]`
 
 #### Modelo
 
